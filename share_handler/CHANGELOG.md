@@ -1,3 +1,5 @@
+# 0.0.25
+Android - Upgrade Android dependencies and tools
 # 0.0.23
 Android - Starting app from 'recent applications' starts it with the last intent
 # 0.0.22
